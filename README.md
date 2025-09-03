@@ -18,7 +18,7 @@ Open:
 
 ## Submission Notes
 
-### How we used Doma
+### How I used Doma
 - **Poll API (+ACK):** `scripts/poll.mjs` calls `/v1/poll` and the app acks with `/v1/poll/ack/{lastId}` inside `/api/poll/run`.
 - **Orderbook:** `/buy` calls `/v1/orderbook/listing/{orderId}/{buyer}` for fulfillment; `/offer` prepares params and submits offers via `/v1/orderbook/offer` (or SDK).
 - **Subgraph:** `/api/offer/prepare` queries tokens by name for `tokenId` and `tokenAddress`.

@@ -52,5 +52,5 @@ Open:
 ### Submission checklist
 - [x] Public GitHub repo (push this code).  
 - [x] Readme + **Submission Notes** (this section).  
-- [x] “How we used Doma” specifics (above).  
+- [x] “How I used Doma” specifics (above).  
 - [x] Recorded demo video (use `docs/DEMO_SCRIPT.md`).  

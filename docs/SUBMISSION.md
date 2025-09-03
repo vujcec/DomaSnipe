@@ -31,8 +31,5 @@ A lightweight alerting bot + UI that listens to Doma events, scores them for rar
 ## Setup
 See repo `README.md`. Requires Node 20 (or Docker), `.env` with `DOMA_API_KEY` (EVENTS,SUBGRAPH,ORDERBOOK).
 
-## Links (fill in when publishing)
-- **GitHub:** <YOUR_REPO_URL>
+## Links
 - **Demo Video:** <LINK>
-- **X/Twitter:** <LINK>
-- **Live Demo (optional):** <URL>

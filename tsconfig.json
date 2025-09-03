@@ -1,0 +1,1 @@
+{ "extends": "next/tsconfig", "compilerOptions": { "strict": true } }

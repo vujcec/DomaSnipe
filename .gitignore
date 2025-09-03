@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+coverage/
+.env
+.env.*
+.DS_Store
+data/*.jsonl
+data/poll_state.json

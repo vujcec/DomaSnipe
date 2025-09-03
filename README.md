@@ -16,7 +16,7 @@ Open:
 
 ---
 
-## Submission Notes (Hackathon-Ready)
+## Submission Notes
 
 ### How we used Doma
 - **Poll API (+ACK):** `scripts/poll.mjs` calls `/v1/poll` and the app acks with `/v1/poll/ack/{lastId}` inside `/api/poll/run`.
@@ -54,4 +54,3 @@ Open:
 - [x] Readme + **Submission Notes** (this section).  
 - [x] “How we used Doma” specifics (above).  
 - [x] Recorded demo video (use `docs/DEMO_SCRIPT.md`).  
-- [x] Project X/Twitter link in repo README.
